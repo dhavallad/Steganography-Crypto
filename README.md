@@ -1,0 +1,1 @@
+This is sample program for Steganography as coursework for cryptography subject.
